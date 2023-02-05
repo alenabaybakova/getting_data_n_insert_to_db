@@ -1,1 +1,1 @@
-# getting_data_n_insert_to_db
+# This code gets data from api and insert to database using Airflow
